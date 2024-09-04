@@ -28,8 +28,5 @@
     "version": "napi version"
   },
   "packageManager": "yarn@4.4.1",
-  "dependencies": {
-    "vectorious": "^6.1.14"
-  },
   "repository": "https://github.com/codecontrollers/fractures-ts"
 }

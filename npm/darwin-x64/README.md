@@ -1,3 +1,3 @@
-# `fractures-ts-darwin-x64`
+# `@codecontrollers/fractures-ts-darwin-x64`
 
-This is the **x86_64-apple-darwin** binary for `fractures-ts`
+This is the **x86_64-apple-darwin** binary for `@codecontrollers/fractures-ts`

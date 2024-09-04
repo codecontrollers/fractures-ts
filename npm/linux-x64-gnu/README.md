@@ -1,3 +1,3 @@
-# `fractures-ts-linux-x64-gnu`
+# `@codecontrollers/fractures-ts-linux-x64-gnu`
 
-This is the **x86_64-unknown-linux-gnu** binary for `fractures-ts`
+This is the **x86_64-unknown-linux-gnu** binary for `@codecontrollers/fractures-ts`

@@ -1,5 +1,5 @@
 {
-  "name": "fractures-ts",
+  "name": "@codecontrollers/fractures-ts",
   "version": "0.0.0",
   "main": "index.js",
   "types": "index.d.ts",
@@ -30,5 +30,6 @@
   "packageManager": "yarn@4.4.1",
   "dependencies": {
     "vectorious": "^6.1.14"
-  }
+  },
+  "repository": "https://github.com/codecontrollers/fractures-ts"
 }

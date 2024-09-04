@@ -1,3 +1,3 @@
-# `fractures-ts-win32-x64-msvc`
+# `@codecontrollers/fractures-ts-win32-x64-msvc`
 
-This is the **x86_64-pc-windows-msvc** binary for `fractures-ts`
+This is the **x86_64-pc-windows-msvc** binary for `@codecontrollers/fractures-ts`

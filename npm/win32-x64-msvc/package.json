@@ -1,5 +1,5 @@
 {
-  "name": "fractures-ts-win32-x64-msvc",
+  "name": "@codecontrollers/fractures-ts-win32-x64-msvc",
   "version": "0.0.0",
   "os": [
     "win32"
@@ -14,5 +14,6 @@
   "license": "MIT",
   "engines": {
     "node": ">= 10"
-  }
+  },
+  "repository": "https://github.com/codecontrollers/fractures-ts"
 }
